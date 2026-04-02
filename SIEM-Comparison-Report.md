@@ -8,19 +8,18 @@
 
 ## Table of Contents
 
-1. Introduction ...................................................................... 3
-2. Objective ......................................................................... 4
-3. Splunk Overview ................................................................... 5
-4. ELK Stack Overview ................................................................ 6
-5. Graylog Overview .................................................................. 7
-6. Hands-On Implementation ........................................................... 8
-7. Comparison of SIEM Solutions ...................................................... 9
-8. Real-World Case Study: Incident #147 ............................................. 10
-9. Use Cases ......................................................................... 13
-10. Security Considerations ......................................................... 14
-11. Conclusion ....................................................................... 16
-12. Project Summary for CV / Portfolio .............................................. 17
-
+1. Introduction  
+2. Objective  
+3. Splunk Overview  
+4. ELK Stack Overview  
+5. Graylog Overview  
+6. Hands-On Implementation  
+7. Comparison of SIEM Solutions 
+8. Real-World Case Study: Incident #147 
+9. Use Cases 
+10. Security Considerations 
+11. Conclusion 
+12. Project Summary for CV / Portfolio 
 ---
 
 ## 1. Introduction
