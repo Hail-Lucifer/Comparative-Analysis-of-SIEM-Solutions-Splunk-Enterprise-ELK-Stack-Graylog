@@ -52,7 +52,10 @@ Ultimately, this project serves as both a technical reference for SIEM selection
 
 ---
 
+
 ## 3. Splunk Overview
+
+<img width="638" height="193" alt="Splunk_logo" src="https://github.com/user-attachments/assets/9a2ab732-38cb-4f0b-808c-bb8bce0b8044" />
 
 Splunk is a commercial Security Information and Event Management (SIEM) platform designed to collect, index, and analyze machine-generated data from IT systems, security devices, and applications in real time. It provides a centralized platform for monitoring, visualizing, and correlating logs, enabling security teams to quickly detect and respond to incidents.
 
@@ -70,6 +73,7 @@ Splunk is particularly well-suited for environments where fast and actionable in
 ---
 
 ## 4. ELK Stack Overview
+![1_9sU-svzYO7aT7QdpnKmbBQ](https://github.com/user-attachments/assets/ef6c7f2e-c70d-4dcc-8735-3880dc083080)
 
 The ELK Stack, consisting of Elasticsearch, Logstash, and Kibana, is an open-source SIEM and log management platform widely used for collecting, processing, and visualizing large volumes of machine-generated data. Elasticsearch provides a scalable search and analytics engine, Logstash handles data collection and transformation, and Kibana offers a visualization interface for dashboards and reporting.
 
@@ -87,6 +91,7 @@ The ELK Stack is particularly suitable for organizations that require highly cus
 ---
 
 ## 5. Graylog Overview
+![Graylog-logo-blk](https://github.com/user-attachments/assets/cf375f53-1ff5-46b7-9fb9-01a197234602)
 
 Graylog is an open-source SIEM platform designed for centralized log management, analysis, and monitoring. It collects and indexes data from multiple sources, providing security teams with a clear view of system events and potential threats in real time. Graylog emphasizes simplicity and ease of deployment while still offering powerful log correlation and alerting capabilities.
 
