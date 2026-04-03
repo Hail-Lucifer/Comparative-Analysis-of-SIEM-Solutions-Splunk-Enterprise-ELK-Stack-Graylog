@@ -8,7 +8,7 @@
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20ELK%20%7C%20Graylog-blue)
 ![Incident Response](https://img.shields.io/badge/Incident-Real%20%23147-red)
 
-**A hands-on comparative analysis of three leading SIEM platforms with a real security incident investigation**
+**A hands-on comparative analysis of three leading SIEM platforms with a real security incident investigation** 
 
 </div>
 
